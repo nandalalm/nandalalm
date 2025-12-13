@@ -57,7 +57,8 @@
 <br>
 <br>
 
-## 📣 How about an Office quote before you go?
+## 📣 How about a quote before you go?
 
-> <p>Good programmers write code that humans can understand.</p>
-> <p>- Martin Fowle</p>
+> <p>First make it work, then make it right, then make it fast.</p>
+> <p>— Kent Beck</p>
+
