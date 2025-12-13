@@ -1,78 +1,80 @@
 <h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nandalal
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Nandalal
 </h1>
 
 <h3 align="center">
   <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45px">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="45px">
   </picture>
-  MERN + TypeScript Full-Stack Developer
+  Full Stack Developer
 </h3>
 
 <br/>
 
-<img align="right" height="280" width="380" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" height="300" width="400" alt="GIF"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ![](https://komarev.com/ghpvc/?username=nandalalm&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nandalalm/)
 
----
-
-### 👨‍💻 About Me
-I’m a **MERN + TypeScript full-stack developer** who enjoys building **scalable, production-ready systems** with clean architecture.  
-I focus on backend design, real-time features, payments, background jobs, and reliable deployments.
-
----
-
-### 💻 Tech Stack
-
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Queue-BullMQ-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Payments-Stripe-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Server-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PM2-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
----
-
-### 🧠 What I Work On
-- Repository Architecture & SOLID principles  
-- RESTful APIs & backend system design  
-- JWT authentication & role-based access control  
-- Stripe payments & webhook flows  
-- Redis + BullMQ background jobs  
-- WebSockets for real-time updates  
-- AWS EC2 deployments with NGINX & PM2  
-
----
+<br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandalalm&show_icons=true&locale=en&layout=compact" />
+  <img align="left"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=nandalalm&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <br><br><br><br><br>
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right"
+  src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"
+  width="250px">
 </picture>
 
----
+<br><br>
 
-### 📌 Featured Projects
-- **Fixeify** — Scalable MERN + TypeScript handyman booking platform  
-- **Subtlety** — Full-stack EJS eCommerce application  
-- **Image App** — Mini MERN + TypeScript app with Docker & CI/CD  
+<h3 align="left">Languages and Tools:</h3>
 
----
+<p align="left">
+  <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+</p>
 
-### 📣 How about a quote before you go?
+<br><br>
 
-> “First make it work, then make it right, then make it fast.”  
-> — Kent Beck
+## 📌 Pinned Repositories
+<a href="https://github.com/nandalalm/Fixeify">
+  <img align="center" style="margin:1rem 0.5rem"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nandalalm&repo=Fixeify&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/nandalalm/Subtlety">
+  <img align="center" style="margin:1rem 0.5rem"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nandalalm&repo=Subtlety&bg_color=1A2B34" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/nandalalm/Image-App">
+  <img align="center" style="margin:1rem 0.5rem"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=nandalalm&repo=Image-App&bg_color=1A2B34" />
+</a>
+
+<br><br>
+
+## 📣 How about a quote before you go?
+
+> <p>First make it work, then make it right, then make it fast.</p>
+> <p>— Kent Beck</p>
