@@ -1,7 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nandalal</h1>
-<h3 align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45px"/>
-  Full-Stack Developer
+<h3 align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45px">
+      </td>
+      <td>
+        <strong>Full-Stack Developer</strong>
+      </td>
+    </tr>
+  </table>
 </h3>
 
 <br/>
